@@ -1,0 +1,30 @@
+header{
+    background-color: aqua;
+    height: auto;
+}
+nav{
+    background-color: aqua;   
+}
+.nav-item a{
+   font-weight: 600;
+}
+span{
+    color: seagreen;
+}
+.button {
+    text-decoration: none;
+    border-radius: 50px;
+    padding: 8px 40px;
+    background-color: seagreen;
+    color: white;
+}
+#books{
+    text-align: center;
+    background-color: seagreen;
+}
+#books:hover{
+    background-color: rgba(128, 128, 128, 0.253);
+    transition: ease-in-out 0.1s;
+    transform: scale(1.1);
+   
+}
